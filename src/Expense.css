@@ -1,0 +1,21 @@
+.container{
+    border:1px solid black;
+    width:400px;
+    height:550px;
+    margin:10px auto;
+}
+.expense{
+    border:1px solid black;
+    width:350px;
+    margin:auto;
+}
+.transaction{
+    border:1px solid black;
+    width:350px;
+    height:350px;
+    margin:10px auto;
+
+}
+.btn{
+    margin:5px 1px;
+}
